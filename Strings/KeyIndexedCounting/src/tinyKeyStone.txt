@@ -1,0 +1,13 @@
+12
+Apple 3
+Banana 0
+Xmas 1
+IMAX 2
+Hrvatska 1
+Blah 3
+Queen 2
+Bibo 1
+Harambe 1
+Stana 0
+Lync 2
+Kris 3

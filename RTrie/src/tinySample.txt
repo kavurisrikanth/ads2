@@ -1,0 +1,10 @@
+apple 1
+banana 2
+carbon 3
+dairy 4
+egg 5
+fallout 6
+gloom 7
+harmony 8
+iridescence 9
+jubilee 10
